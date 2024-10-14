@@ -1,0 +1,1 @@
+abul= 0090 babul=100 kamal=110 goine=150.000000akash= 50 name=sfish= 12.120000fish= 12.12

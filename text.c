@@ -10,7 +10,7 @@ int main()
 #include <stdio.h>
 #include <math.h>
 
-//-------definition section-------
+//-------definition section-------my custom definitions
 #define PI 3.1416
 #define ll long long
 
